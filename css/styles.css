@@ -14,9 +14,9 @@
 */
 @import url("https://fonts.googleapis.com/css?family=Baloo+Paaji|Open+Sans:300,300i,400,400i,600,600i,700,700i");
 :root {
-  --blue: #1e549f;
-  --indigo: #695aa6;
-  --purple: #6f42c1;
+  --blue: #5cef3f;
+  --indigo: #4ae021;
+  --purple: #42c19b;
   --pink: #e83e8c;
   --red: #ec185d;
   --orange: #ff6d02;
@@ -67,9 +67,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #1c1821;
   text-align: left;
-  background-color: #fff;
+  background-color: #d1c2f0;
 }
 
 [tabindex="-1"]:focus {
